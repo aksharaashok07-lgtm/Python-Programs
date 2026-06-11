@@ -1,3 +1,4 @@
 # python programs
 
-A set of codes in python
+This is a repository containing basic python programs for practice and learning.
+
